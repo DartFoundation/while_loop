@@ -1,5 +1,5 @@
 # Welcome
-# LIST Indexing
+# while loop
 
 Automated grading of homework assignments and tests
 - fork this repository
